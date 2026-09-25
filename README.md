@@ -1,6 +1,6 @@
 ## Hi there 👋
   First-year student in CS
-  Currently know Python without OOP and C++ with it(maybe on jun level:> )
+  Trying something new
   
 <!--
 **RebornRevan/RebornRevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
