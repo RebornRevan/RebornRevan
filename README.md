@@ -1,7 +1,15 @@
-## Hi there 👋
-  First-year student in CS
-  Trying something new
-  
+# Hi there, I'm Iaroslav 👋
+
+Computer Science student at the **University of Debrecen**. Currently diving deep into Software Engineering and Backend Development.
+I mostly write in C++ or Python, but expanding it to Go.
+
+**If someone wants to play chess, I'm always up for it**
+
+Links:
+
+https://www.chess.com/member/lepilo
+
+https://lichess.org/@/rus_swe
 <!--
 **RebornRevan/RebornRevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
